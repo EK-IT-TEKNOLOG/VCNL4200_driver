@@ -1,3 +1,4 @@
+#Based on: //From: https://github.com/ktsai69/Vishay_VCNL4200
 from machine import I2C, Pin, SoftI2C
 import time
 from micropython import const
