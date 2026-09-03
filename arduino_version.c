@@ -1,3 +1,4 @@
+//From: https://github.com/ktsai69/Vishay_VCNL4200
 #define VCNL4200_ADDRESS            0x51
 #define VCNL4200_WHO_AM_I           0x58
 
